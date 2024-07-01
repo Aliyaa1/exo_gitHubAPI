@@ -1,0 +1,23 @@
+.image {
+  height: 100px;
+  width: 100px;
+  border-radius: 50%;
+  /* background-color: black; */
+  /* background: url("https://avatars.githubusercontent.com/u/146840373?v=4");
+  background-position: cover;
+  background-position: center;
+  background-position: no-repeat; */
+  /* background: url("https://avatars.githubusercontent.com/u/146840373?v=4")
+    no-repeat center center / cover; */
+}
+
+.social {
+  display: block;
+  height: 75px;
+  width: 72px;
+  border-radius: 50%;
+}
+img {
+  height: 50px;
+  width: 50px;
+}
